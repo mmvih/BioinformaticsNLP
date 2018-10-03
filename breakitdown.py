@@ -37,8 +37,8 @@ def main():
 				paper = line[0]
 				bacterias = line[1]
 				break
+				
 	#TOKENIZING EACH BACTERIA INTO ITS GENUS AND SPECIES SEPARATELY
-	
 	whole_bacterias = []
 	wholebacterias = ast.literal_eval(bacterias)
 	for item in wholebacterias:
