@@ -1,6 +1,3 @@
-      Show Dotfiles  Show Owner/Mode
-File Explorer
-/projects/academic/mjbuck/Buck_Lab_Members/madhuriv/
 #module load python/anaconda-4.3.1
 #conda list nltk
 #module load snlp
