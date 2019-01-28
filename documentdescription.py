@@ -52,19 +52,19 @@ def main():
 	lexicaldiversity = (float((numwords/setwords)))/100
 	#print lexicaldiversity, type(lexicaldiversity)
 	#watimgonnaappendtotheoutput = []
-	watimgonnaappendtotheoutput = [item.encode("utf-8") for item in sorted(fdist.keys()) if fdist.freq(item)/lexicaldiversity > 1]
+	outp = [item.encode("utf-8") for item in sorted(fdist.keys()) if fdist.freq(item)/lexicaldiversity > 1]
 	#for item in sorted(fdist.keys()):
 	#	if fdist.freq(item)/lexicaldiversity > 1:
 	#		watimgonnaappendtotheoutput.append(item)
-	print watimgonnaappendtotheoutput
+	print outp
 	
 	
-	if not watimgonnaappendtotheoutput:
+	if not outp:
 		with open(sys.argv[2], 'a') as outfile:
 			outfile.write("%s \t NO SIGNIFICANT WORDS \n" % sys.argv[1])
 	else:
 		with open(sys.argv[2], 'a') as outfile:
-			outfile.write("%s \t %s \n" % (sys.argv[1], watimgonnaappendtotheoutput))
+			outfile.write("%s \t %s \n" % (sys.argv[1], outp))
 	outfile.close()	
 	
 main()	
