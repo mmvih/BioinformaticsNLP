@@ -51,11 +51,11 @@ def main():
 		
 	lexicaldiversity = (float((numwords/setwords)))/100
 	#print lexicaldiversity, type(lexicaldiversity)
-	#watimgonnaappendtotheoutput = []
+	#outp = []
 	outp = [item.encode("utf-8") for item in sorted(fdist.keys()) if fdist.freq(item)/lexicaldiversity > 1]
 	#for item in sorted(fdist.keys()):
 	#	if fdist.freq(item)/lexicaldiversity > 1:
-	#		watimgonnaappendtotheoutput.append(item)
+	#		outp.append(item)
 	print outp
 	
 	
