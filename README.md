@@ -17,6 +17,6 @@ Make a sub directory in your current directory by running the command:
 
 Given articles.A-B.xml.tar.gz file in the folder, we can unzip the folder by running the command:
 
-'''
-unzip 
-'''
+> tar -C /ABxmlpapers -xvf articles.A-B.xml.tar.gz &
+
+- The "&" allows the folder to be unzipped in the background
