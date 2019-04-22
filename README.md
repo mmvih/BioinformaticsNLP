@@ -12,9 +12,8 @@ These codes are to help streamline and organize XML files from PubMed's Open Acc
 
 Make a sub directory in your current directory by running the command:
 
-'''
-mkdir ABxmlpapers
-'''
+> mkdir ABxmlpapers
+
 
 Given articles.A-B.xml.tar.gz file in the folder, we can unzip the folder by running the command:
 
