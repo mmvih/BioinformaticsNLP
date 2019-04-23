@@ -114,7 +114,7 @@ To run, use the commands
 
 > ./countsent
 
-- freqinterest.sh
+freqinterest.sh: Given a list of words, the frequency of those words mentioned in bothwordbact.txt can be outputted.  Examples: lists of diseases, antibiotics, etc.
 
 
 
