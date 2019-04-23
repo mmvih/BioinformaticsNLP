@@ -10,6 +10,8 @@ These codes are to help streamline and organize XML files from PubMed's Open Acc
 
 **Steps**
 
+Download comm_use.A-B.xml.tar.gz from ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_bulk/ and place in directory.
+
 Make a sub directory in your current directory by running the command:
 
 > mkdir ABxmlpapers
