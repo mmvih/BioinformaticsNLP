@@ -70,4 +70,17 @@ Compile the script and run it with the commands:
 
 > nohup ./step3optional.sh &
 
+**Step 4**
+
+The step4.sh script goes through the directory spesets/ and appends all the sentences that mentioned both bacterias into a text file called bothsentbact.txt and all the tokenized words into a text file called bothwordsbact.txt.  If there are no sentences that mention both the bacterias in all the papers that mention both bacterias, then the corresponding subdirectory in speset/ is deleted. 
+
+Compile the script and run it with the commands:
+
+> chmod u+x step4.sh
+
+> nohup ./step4optional.sh
+
+**Step 5**
+
+
 
