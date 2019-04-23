@@ -38,6 +38,8 @@ Return to the original directory by
 
 > cd ..
 
+**Step 1**
+
 The step1.sh script creates three new directories with subdirectories (abxmlwords, abxmlsentences, SpeciesP3).  It tokenizes all the XML papers into words and sentences.  The tokenized words are placed in one output (wordPMC[PMC id].txt) and copied into the abxmlwords/ directory and the tokenized sentences (sentPMC[PMC id].txt) are copied into the abxmlsentences/ directory.  The SpeciesP3 directory is compromised of subdirectories that are named after the bacterias listed in speciesjoined.txt. If the XML paper mentions any bacteria in the list, then both outputs are copied into the respective subdirectories of SpeciesP3.  If any bacteria listed in speciesjoined.txt is not found in any of the papers, then that subdirectory is removed.
 
 Additional notes
@@ -50,12 +52,16 @@ Compile the script and run it with the commands:
 
 > nohup ./step1.sh &
 
+**Step 2**
+
 The step2.sh script creates a new directory, spesets/.  It takes the remaining species left in SpeciesP3/ and creates combinations of 2 amongst them. Each combination has a unique Id, which can be found in bactsets.txt.  The subdirectories in spesets/ are named after those unique ids.  If any two bacteria is mentioned in a paper, then it copies the .nxml file, sentPMC.txt file, and wordPMC.txt file into its respective subdirectory in spesets/.
 Compile the script and run it with the commands:
 
 > chmod u+x step2.sh
 
 > nohup ./step2.sh &
+
+**Step 3**
 
 The step3optionl.sh script takes the bacterias in the SpeciesP3/ directory and finds the frequency of the number of times the bacteria was mentioned in each paper.  It appends the outputs all into one .txt file and keeps it in its respective directories named as freq.txt  
 Compile the script and run it with the commands:
