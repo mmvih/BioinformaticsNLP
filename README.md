@@ -38,4 +38,6 @@ Compile the script and run it with the commands:
 
 > nohup ./step1.sh &
 
+The step2.sh script creates a new directory, spesets/.  It takes the remaining species left in SpeciesP3/ and creates combinations of 2 amongst them. Each combination has a unique Id, which can be found in bactsets.txt.  The subdirectories in spesets/ are named after those unique ids.  If any two bacteria is mentioned in a paper, then it copies the .nxml file, sentPMC.txt file, and wordPMC.txt file into its respective subdirectory in spesets/.
+
 
