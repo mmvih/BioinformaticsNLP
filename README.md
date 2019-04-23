@@ -19,9 +19,9 @@ Make a sub directory in your current directory by running the command:
 
 Given articles.A-B.xml.tar.gz tar file in the folder, we can unzip the tar file in the ABxmlpapers directory by running the commands:
 
-> mv articles.A-B.xml.tar.gz ABxmlpapers/
+> mv comm_use.articles.A-B.xml.tar.gz ABxmlpapers/
 
-> nohup tar -C /ABxmlpapers -xvf articles.A-B.xml.tar.gz &
+> nohup tar -C /ABxmlpapers -xvf comm_use.articles.A-B.xml.tar.gz &
 
 Return to the original directory by 
 
