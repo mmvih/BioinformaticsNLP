@@ -30,4 +30,10 @@ Return to the original directory by
 
 > cd ..
 
+Compile the scripts and run them with the commands:
+
+> chmod u+x step1.sh
+
+> nohup ./step1.sh &
+
 
