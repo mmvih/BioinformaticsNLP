@@ -1,5 +1,5 @@
 # BioinformaticsNLP
-These codes are to help streamline and organize XML files from PubMed's Open Access Subset to find interactions between two bacterias in the oral microbiome. 
+These codes are to help streamline and organize XML files from PubMed's Open Access Subset to help find interactions between two bacterias in the oral microbiome. 
 
 **System requirements:**
 
@@ -9,8 +9,9 @@ These codes are to help streamline and organize XML files from PubMed's Open Acc
 
 
 **Steps**
+Download this folder (BioinformaticsNLP)
 
-Download comm_use.A-B.xml.tar.gz from ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_bulk/ and place in directory.
+Download comm_use.A-B.xml.tar.gz from ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_bulk/ and place in directory BioinformaticsNLP/.
 
 Make a sub directory in your current directory by running the command:
 
