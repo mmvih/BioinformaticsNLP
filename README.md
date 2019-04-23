@@ -13,7 +13,7 @@ These codes have a high time and space complexity.
 - Stanford Parser
 
 
-**Steps**
+**STEPS**
 
 Download this folder (BioinformaticsNLP)
 
