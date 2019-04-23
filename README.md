@@ -30,7 +30,9 @@ Return to the original directory by
 
 > cd ..
 
-Compile the scripts and run them with the commands:
+The step1.sh script creates two new directories (abxmlwords and abxmlsentences).  It tokenizes all the XML papers into words and sentences.  The tokenized words are placed in one output and the tokenized sentences are placed in another, which are then moved into the corresponding directory. 
+
+Compile the script and run it with the commands:
 
 > chmod u+x step1.sh
 
