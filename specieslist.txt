@@ -1,0 +1,815 @@
+Abiotrophia defectiva
+Absconditabacteria (SR1) [G-1] bacterium HMT 345
+Absconditabacteria (SR1) [G-1] bacterium HMT 874
+Absconditabacteria (SR1) [G-1] bacterium HMT 875
+Absconditabacteria (SR1) [G-2] bacterium HMT 990
+Absconditabacteria (SR1) [G-3] bacterium HMT 991
+Achromobacter xylosoxidans
+Acidipropionibacterium acidifaciens
+Acidovorax caeni
+Acidovorax ebreus
+Acidovorax temperans
+Acinetobacter baumannii
+Acinetobacter johnsonii
+Acinetobacter junii
+Acinetobacter lwoffii
+Acinetobacter radioresistens
+Acinetobacter sp. HMT 408
+Actinomyces cardiffensis
+Actinomyces dentalis
+Actinomyces georgiae
+Actinomyces gerencseriae
+Actinomyces graevenitzii
+Actinomyces israelii
+Actinomyces johnsonii
+Actinomyces lingnae
+Actinomyces massiliensis
+Actinomyces meyeri
+Actinomyces naeslundii
+Actinomyces odontolyticus
+Actinomyces oricola
+Actinomyces oris
+Actinomyces radicidentis
+Actinomyces sp. HMT 169
+Actinomyces sp. HMT 170
+Actinomyces sp. HMT 171
+Actinomyces sp. HMT 172
+Actinomyces sp. HMT 175
+Actinomyces sp. HMT 177
+Actinomyces sp. HMT 178
+Actinomyces sp. HMT 180
+Actinomyces sp. HMT 414
+Actinomyces sp. HMT 446
+Actinomyces sp. HMT 448
+Actinomyces sp. HMT 449
+Actinomyces sp. HMT 525
+Actinomyces sp. HMT 877
+Actinomyces sp. HMT 896
+Actinomyces sp. HMT 897
+Actinomyces timonensis
+Actinomyces viscosus
+Aerococcus viridans
+Afipia broomeae
+Afipia sp. genotype 4
+Aggregatibacter actinomycetemcomitans
+Aggregatibacter aphrophilus
+Aggregatibacter paraphrophilus
+Aggregatibacter segnis
+Aggregatibacter sp. HMT 458
+Aggregatibacter sp. HMT 512
+Aggregatibacter sp. HMT 513
+Aggregatibacter sp. HMT 898
+Aggregatibacter sp. HMT 949
+Agrobacterium tumefaciens
+Alloiococcus otitis
+Alloprevotella rava
+Alloprevotella sp. HMT 308
+Alloprevotella sp. HMT 473
+Alloprevotella sp. HMT 474
+Alloprevotella sp. HMT 912
+Alloprevotella sp. HMT 913
+Alloprevotella sp. HMT 914
+Alloprevotella tannerae
+Alloscardovia omnicolens
+Anaerococcus lactolyticus
+Anaerococcus octavius
+Anaerococcus prevotii
+Anaerococcus sp. HMT 290
+Anaerococcus sp. HMT 294
+Anaerococcus sp. HMT 295
+Anaerococcus tetradius
+Anaeroglobus geminatus
+Anaerolineae [G-1] bacterium HMT 439
+Anaerolinea thermophila
+Anoxybacillus flavithermus
+Arcanobacterium haemolyticum
+Arsenicicoccus bolidensis
+Arthrospira platensis
+Atopobium minutum
+Atopobium parvulum
+Atopobium rimae
+Atopobium sp. HMT 199
+Atopobium sp. HMT 416
+Atopobium sp. HMT 810
+Atopobium vaginae
+Bacillus anthracis
+Bacillus clausii
+Bacillus subtilis
+Bacteroidaceae [G-1] bacterium HMT 272
+Bacteroidales [G-2] bacterium HMT 274
+Bacteroides heparinolyticus
+Bacteroides pyogenes
+Bacteroides zoogleoformans
+Bacteroidetes [G-3] bacterium HMT 280
+Bacteroidetes [G-3] bacterium HMT 281
+Bacteroidetes [G-3] bacterium HMT 365
+Bacteroidetes [G-3] bacterium HMT 436
+Bacteroidetes [G-3] bacterium HMT 503
+Bacteroidetes [G-3] bacterium HMT 899
+Bacteroidetes [G-4] bacterium HMT 509
+Bacteroidetes [G-5] bacterium HMT 505
+Bacteroidetes [G-5] bacterium HMT 507
+Bacteroidetes [G-5] bacterium HMT 511
+Bacteroidetes [G-6] bacterium HMT 516
+Bacteroidetes [G-7] bacterium HMT 911
+Bartonella schoenbuchensis
+Bdellovibrio sp. HMT 039
+Bergeyella sp. HMT 206
+Bergeyella sp. HMT 319
+Bergeyella sp. HMT 322
+Bergeyella sp. HMT 422
+Bergeyella sp. HMT 900
+Bergeyella sp. HMT 907
+Bergeyella sp. HMT 931
+Bifidobacteriaceae [G-2] bacterium HMT 407
+Bifidobacterium animalis
+Bifidobacterium breve
+Bifidobacterium dentium
+Bifidobacterium longum
+Bifidobacterium scardovii
+Bifidobacterium subtile
+Bordetella pertussis
+Bosea vestrisii
+Bradyrhizobium elkanii
+Brevibacterium paucivorans
+Brevundimonas diminuta
+Brochothrix thermosphacta
+Bulleidia extructa
+Burkholderia cepacia
+Butyrivibrio sp. HMT 080
+Butyrivibrio sp. HMT 090
+Butyrivibrio sp. HMT 455
+Caldilinea aerophila
+Campylobacter concisus
+Campylobacter curvus
+Campylobacter gracilis
+Campylobacter rectus
+Campylobacter showae
+Campylobacter sp. HMT 044
+Campylobacter sputorum
+Campylobacter ureolyticus
+Candidatus Saccharimonas aalborgensis
+Capnocytophaga gingivalis
+Capnocytophaga granulosa
+Capnocytophaga haemolytica
+Capnocytophaga leadbetteri
+Capnocytophaga ochracea
+Capnocytophaga sp. HMT 323
+Capnocytophaga sp. HMT 324
+Capnocytophaga sp. HMT 326
+Capnocytophaga sp. HMT 332
+Capnocytophaga sp. HMT 334
+Capnocytophaga sp. HMT 335
+Capnocytophaga sp. HMT 336
+Capnocytophaga sp. HMT 338
+Capnocytophaga sp. HMT 380
+Capnocytophaga sp. HMT 412
+Capnocytophaga sp. HMT 863
+Capnocytophaga sp. HMT 864
+Capnocytophaga sp. HMT 878
+Capnocytophaga sp. HMT 901
+Capnocytophaga sp. HMT 902
+Capnocytophaga sp. HMT 903
+Capnocytophaga sputigena
+Cardiobacterium hominis
+Cardiobacterium valvarum
+Catonella morbi
+Catonella sp. HMT 164
+Catonella sp. HMT 451
+Caulobacter sp. HMT 002
+Centipeda periodontii
+Chlamydophila pneumoniae
+Chlorobium limicola
+Clostridiales [F-1][G-1] bacterium HMT 093
+Clostridiales [F-1][G-2] bacterium HMT 402
+Clostridiales [F-3][G-1] bacterium HMT 876
+Comamonas testosteroni
+Corynebacterium accolens
+Corynebacterium afermentans
+Corynebacterium amycolatum
+Corynebacterium appendicis
+Corynebacterium aurimucosum
+Corynebacterium bovis
+Corynebacterium coyleae
+Corynebacterium diphtheriae
+Corynebacterium durum
+Corynebacterium jeikeium
+Corynebacterium kroppenstedtii
+Corynebacterium macginleyi
+Corynebacterium massiliense
+Corynebacterium mastitidis
+Corynebacterium matruchotii
+Corynebacterium minutissimum
+Corynebacterium mucifaciens
+Corynebacterium pilbarense
+Corynebacterium propinquum
+Corynebacterium pseudodiphtheriticum
+Corynebacterium simulans
+Corynebacterium singulare
+Corynebacterium sp. HMT 207
+Corynebacterium striatum
+Corynebacterium tuberculostearicum
+Corynebacterium tuscaniense
+Corynebacterium urealyticum
+Cronobacter sakazakii
+Cryptobacterium curtum
+Cupriavidus gilardii
+Cutibacterium acnes
+Cutibacterium avidum
+Cutibacterium granulosum
+Cutibacterium sp. HMT 193
+Defluvibacter lusatiensis
+Delftia acidovorans
+Dermabacter hominis
+Desulfobulbus sp. HMT 041
+Desulfomicrobium orale
+Desulfovibrio fairfieldensis
+Desulfovibrio sp. HMT 040
+Dialister invisus
+Dialister micraerophilus
+Dialister pneumosintes
+Dialister sp. HMT 119
+Dialister sp. HMT 502
+Dietzia cinnamea
+Dolosigranulum pigrum
+Eggerthella lenta
+Eggerthia catenaformis
+Eikenella corrodens
+Eikenella sp. HMT 009
+Eikenella sp. HMT 011
+Enhydrobacter aerosaccus
+Enterobacter cancerogenus
+Enterobacter hormaechei
+Enterococcus casseliflavus
+Enterococcus durans
+Enterococcus faecalis
+Enterococcus italicus
+Enterococcus saccharolyticus
+Erysipelothrix tonsillarum
+Erysipelotrichaceae [G-1] bacterium HMT 904
+Erysipelotrichaceae [G-1] bacterium HMT 905
+Erythromicrobium ramosum
+Escherichia coli
+Eubacterium limosum
+Fastidiosipila sanguinis
+Filifactor alocis
+Finegoldia magna
+Flavitalea sp. HMT 320
+Fretibacterium fastidiosum
+Fretibacterium sp. HMT 358
+Fretibacterium sp. HMT 359
+Fretibacterium sp. HMT 360
+Fretibacterium sp. HMT 361
+Fretibacterium sp. HMT 362
+Fretibacterium sp. HMT 452
+Fretibacterium sp. HMT 453
+Fusobacterium gonidiaformans
+Fusobacterium hwasookii
+Fusobacterium naviforme
+Fusobacterium necrophorum
+Fusobacterium nucleatum subsp. animalis
+Fusobacterium nucleatum subsp. nucleatum
+Fusobacterium nucleatum subsp. polymorphum
+Fusobacterium nucleatum subsp. vincentii
+Fusobacterium periodonticum
+Fusobacterium sp. HMT 203
+Fusobacterium sp. HMT 204
+Fusobacterium sp. HMT 205
+Fusobacterium sp. HMT 248
+Fusobacterium sp. HMT 370
+Gardnerella vaginalis
+Gemella bergeri
+Gemella haemolysans
+Gemella morbillorum
+Gemella sanguinis
+Gemella sp. HMT 928
+Gracilibacteria (GN02) [G-1] bacterium HMT 871
+Gracilibacteria (GN02) [G-1] bacterium HMT 872
+Gracilibacteria (GN02) [G-2] bacterium HMT 873
+Gracilibacteria (GN02) [G-3] bacterium HMT 996
+Gracilibacteria (GN02) [G-4] bacterium HMT 997
+Granulicatella adiacens
+Granulicatella elegans
+Haematobacter missouriensis
+Haemophilus aegyptius
+Haemophilus ducreyi
+Haemophilus haemolyticus
+Haemophilus influenzae
+Haemophilus parahaemolyticus
+Haemophilus parainfluenzae
+Haemophilus paraphrohaemolyticus
+Haemophilus pittmaniae
+Haemophilus sp. HMT 036
+Haemophilus sp. HMT 259
+Haemophilus sp. HMT 908
+Haemophilus sputorum
+Helicobacter pylori
+Ignavibacterium album
+Janibacter indicus
+Jeotgalicoccus huakuii
+Johnsonella ignava
+Johnsonella sp. HMT 166
+Jonquetella anthropi
+Kingella denitrificans
+Kingella kingae
+Kingella oralis
+Kingella sp. HMT 012
+Kingella sp. HMT 459
+Kingella sp. HMT 932
+Klebsiella aerogenes
+Klebsiella pneumoniae
+Kluyvera ascorbata
+Kocuria palustris
+Kocuria rhizophila
+Kocuria sp. HMT 189
+Kytococcus sedentarius
+Lachnoanaerobaculum orale
+Lachnoanaerobaculum saburreum
+Lachnoanaerobaculum sp. HMT 083
+Lachnoanaerobaculum sp. HMT 089
+Lachnoanaerobaculum sp. HMT 496
+Lachnoanaerobaculum umeaense
+Lachnospiraceae [G-10] bacterium HMT 094
+Lachnospiraceae [G-2] bacterium HMT 088
+Lachnospiraceae [G-2] bacterium HMT 096
+Lachnospiraceae [G-3] bacterium HMT 100
+Lachnospiraceae [G-7] bacterium HMT 086
+Lachnospiraceae [G-7] bacterium HMT 163
+Lachnospiraceae [G-8] bacterium HMT 500
+Lachnospiraceae [G-9] bacterium HMT 924
+Lactobacillus acidophilus
+Lactobacillus brevis
+Lactobacillus buchneri
+Lactobacillus casei
+Lactobacillus coleohominis
+Lactobacillus crispatus
+Lactobacillus fermentum
+Lactobacillus gasseri
+Lactobacillus iners
+Lactobacillus jensenii
+Lactobacillus johnsonii
+Lactobacillus kisonensis
+Lactobacillus oris
+Lactobacillus panis
+Lactobacillus paracasei
+Lactobacillus parafarraginis
+Lactobacillus pentosus
+Lactobacillus plantarum
+Lactobacillus rapi
+Lactobacillus reuteri clade 818
+Lactobacillus reuteri clade 938
+Lactobacillus rhamnosus
+Lactobacillus salivarius
+Lactobacillus sp. HMT 052
+Lactobacillus ultunensis
+Lactobacillus vaginalis
+Lactococcus lactis
+Lautropia mirabilis
+Lawsonella clevelandensis
+Leptothrix sp. HMT 025
+Leptothrix sp. HMT 266
+Leptotrichia buccalis
+Leptotrichiaceae [G-1] sp. HMT 210
+Leptotrichiaceae [G-1] sp. HMT 220
+Leptotrichia goodfellowii
+Leptotrichia hofstadii
+Leptotrichia hongkongensis
+Leptotrichia shahii
+Leptotrichia sp. HMT 212
+Leptotrichia sp. HMT 215
+Leptotrichia sp. HMT 217
+Leptotrichia sp. HMT 218
+Leptotrichia sp. HMT 219
+Leptotrichia sp. HMT 221
+Leptotrichia sp. HMT 223
+Leptotrichia sp. HMT 225
+Leptotrichia sp. HMT 392
+Leptotrichia sp. HMT 417
+Leptotrichia sp. HMT 462
+Leptotrichia sp. HMT 463
+Leptotrichia sp. HMT 498
+Leptotrichia sp. HMT 847
+Leptotrichia sp. HMT 879
+Leptotrichia sp. HMT 909
+Leptotrichia wadei
+Listeria monocytogenes
+Lysinibacillus fusiformis
+Megasphaera micronuciformis
+Megasphaera sp. HMT 123
+Megasphaera sp. HMT 841
+Melioribacter roseus
+Mesorhizobium loti
+Methanobrevibacter oralis
+Micavibrio aeruginosavorus
+Microbacterium flavescens
+Microbacterium ginsengisoli
+Micrococcus luteus
+Mitsuokella multacida
+Mitsuokella sp. HMT 131
+Mitsuokella sp. HMT 521
+Mobiluncus mulieris
+Mogibacterium diversum
+Mogibacterium neglectum
+Mogibacterium pumilum
+Mogibacterium timidum
+Mogibacterium vescum
+Mollicutes [G-1] bacterium HMT 504
+Mollicutes [G-2] bacterium HMT 906
+Moraxella catarrhalis
+Moraxella lincolnii
+Moraxella nonliquefaciens
+Moraxella osloensis
+Moraxella sp. HMT 276
+Mycobacterium leprae
+Mycobacterium neoaurum
+Mycobacterium tuberculosis
+Mycoplasma buccale
+Mycoplasma faucium
+Mycoplasma fermentans
+Mycoplasma genitalium
+Mycoplasma hominis
+Mycoplasma lipophilum
+Mycoplasma orale
+Mycoplasma pneumoniae
+Mycoplasma salivarium
+Neisseria bacilliformis
+Neisseriaceae [G-1] bacterium HMT 174
+Neisseriaceae [G-1] bacterium HMT 327
+Neisseria cinerea
+Neisseria elongata
+Neisseria flava
+Neisseria flavescens
+Neisseria gonorrhoeae
+Neisseria lactamica
+Neisseria macacae
+Neisseria meningitidis
+Neisseria mucosa
+Neisseria oralis
+Neisseria perflava
+Neisseria pharyngis
+Neisseria polysaccharea
+Neisseria sicca
+Neisseria sp. HMT 015
+Neisseria sp. HMT 016
+Neisseria sp. HMT 018
+Neisseria sp. HMT 020
+Neisseria sp. HMT 499
+Neisseria sp. HMT 523
+Neisseria subflava
+Neisseria weaveri
+Novosphingobium panipatense
+Ochrobactrum anthropi
+Olsenella profusa
+Olsenella sp. HMT 807
+Olsenella sp. HMT 809
+Olsenella sp. HMT 939
+Olsenella uli
+Oribacterium asaccharolyticum
+Oribacterium parvum
+Oribacterium sinus
+Oribacterium sp. HMT 078
+Oribacterium sp. HMT 102
+Oribacterium sp. HMT 372
+Ottowia sp. HMT 894
+Paenibacillus glucanolyticus
+Paenibacillus phoenicis
+Paenibacillus sp. HMT 048
+Paracoccus yeei
+Parascardovia denticolens
+Parvimonas micra
+Parvimonas sp. HMT 110
+Parvimonas sp. HMT 393
+Pedobacter sp. HMT 318
+Pedobacter sp. HMT 321
+Pedobacter sp. HMT 933
+Peptidiphaga gingivicola
+Peptidiphaga sp. HMT 183
+Peptococcus sp. HMT 167
+Peptococcus sp. HMT 168
+Peptoniphilaceae [G-1] bacterium HMT 113
+Peptoniphilaceae [G-2] bacterium HMT 790
+Peptoniphilaceae [G-3] bacterium HMT 929
+Peptoniphilus asaccharolyticus
+Peptoniphilus harei
+Peptoniphilus indolicus
+Peptoniphilus lacrimalis
+Peptoniphilus sp. HMT 187
+Peptoniphilus sp. HMT 375
+Peptoniphilus sp. HMT 386
+Peptostreptococcaceae [XI][G-1] bacterium HMT 383
+Peptostreptococcaceae [XI][G-1] [Eubacterium] infirmum
+Peptostreptococcaceae [XI][G-1] [Eubacterium] sulci
+Peptostreptococcaceae [XI][G-2] bacterium HMT 091
+Peptostreptococcaceae [XI][G-3] bacterium HMT 495
+Peptostreptococcaceae [XI][G-3] bacterium HMT 950
+Peptostreptococcaceae [XI][G-4] bacterium HMT 103
+Peptostreptococcaceae [XI][G-4] bacterium HMT 369
+Peptostreptococcaceae [XI][G-5] bacterium HMT 493
+Peptostreptococcaceae [XI][G-5] [Eubacterium] saphenum
+Peptostreptococcaceae [XI][G-6] [Eubacterium] minutum
+Peptostreptococcaceae [XI][G-6] [Eubacterium] nodatum
+Peptostreptococcaceae [XI][G-7] bacterium HMT 081
+Peptostreptococcaceae [XI][G-7] bacterium HMT 922
+Peptostreptococcaceae [XI][G-7] [Eubacterium] yurii subsp. schtitka
+Peptostreptococcaceae [XI][G-7] [Eubacterium] yurii subsps. yurii & margaretiae
+Peptostreptococcaceae [XI][G-8] bacterium HMT 382
+Peptostreptococcaceae [XI][G-9] [Eubacterium] brachy
+Peptostreptococcus anaerobius
+Peptostreptococcus stomatis
+Porphyrobacter tepidarius
+Porphyromonas asaccharolytica
+Porphyromonas catoniae
+Porphyromonas endodontalis
+Porphyromonas gingivalis
+Porphyromonas pasteri
+Porphyromonas sp. HMT 275
+Porphyromonas sp. HMT 277
+Porphyromonas sp. HMT 278
+Porphyromonas sp. HMT 284
+Porphyromonas sp. HMT 285
+Porphyromonas sp. HMT 395
+Porphyromonas sp. HMT 930
+Porphyromonas uenonis
+Prevotella aurantiaca
+Prevotella baroniae
+Prevotella bivia
+Prevotella buccae
+Prevotella buccalis
+Prevotella dentalis
+Prevotella denticola
+Prevotella enoeca
+Prevotella fusca
+Prevotella histicola
+Prevotella intermedia
+Prevotella loescheii
+Prevotella maculosa
+Prevotella marshii
+Prevotella melaninogenica
+Prevotella micans
+Prevotella multiformis
+Prevotella multisaccharivorax
+Prevotella nanceiensis
+Prevotella nigrescens
+Prevotella oralis
+Prevotella oris
+Prevotella oulorum
+Prevotella pallens
+Prevotella pleuritidis
+Prevotella saccharolytica
+Prevotella salivae
+Prevotella scopos
+Prevotella shahii
+Prevotella sp. HMT 292
+Prevotella sp. HMT 293
+Prevotella sp. HMT 296
+Prevotella sp. HMT 300
+Prevotella sp. HMT 301
+Prevotella sp. HMT 304
+Prevotella sp. HMT 305
+Prevotella sp. HMT 306
+Prevotella sp. HMT 309
+Prevotella sp. HMT 310
+Prevotella sp. HMT 313
+Prevotella sp. HMT 314
+Prevotella sp. HMT 315
+Prevotella sp. HMT 317
+Prevotella sp. HMT 376
+Prevotella sp. HMT 396
+Prevotella sp. HMT 443
+Prevotella sp. HMT 472
+Prevotella sp. HMT 475
+Prevotella sp. HMT 515
+Prevotella sp. HMT 526
+Prevotella sp. HMT 820
+Prevotella sp. HMT 942
+Prevotella veroralis
+Propionibacteriaceae [G-1] bacterium HMT 915
+Propionibacteriaceae [G-2] bacterium HMT 192
+Proteus mirabilis
+Pseudomonas aeruginosa
+Pseudomonas fluorescens
+Pseudomonas luteola
+Pseudomonas otitidis
+Pseudomonas pseudoalcaligenes
+Pseudomonas sp. HMT 032
+Pseudomonas stutzeri
+Pseudopropionibacterium propionicum
+Pseudopropionibacterium sp. HMT 194
+Pseudoramibacter alactolyticus
+Pyramidobacter piscolens
+Ralstonia pickettii
+Ralstonia sp. HMT 406
+Rhodobacter capsulatus
+Rhodocyclus sp. HMT 028
+Roseomonas gilardii
+Roseomonas mucosa
+Rothia aeria
+Rothia dentocariosa
+Rothia mucilaginosa
+Ruminococcaceae [G-1] bacterium HMT 075
+Ruminococcaceae [G-2] bacterium HMT 085
+Ruminococcaceae [G-3] bacterium HMT 366
+Ruminococcaceae [G-3] bacterium HMT 381
+Saccharibacteria (TM7) [G-1] bacterium HMT 346
+Saccharibacteria (TM7) [G-1] bacterium HMT 347
+Saccharibacteria (TM7) [G-1] bacterium HMT 348
+Saccharibacteria (TM7) [G-1] bacterium HMT 349
+Saccharibacteria (TM7) [G-1] bacterium HMT 352
+Saccharibacteria (TM7) [G-1] bacterium HMT 353
+Saccharibacteria (TM7) [G-1] bacterium HMT 488
+Saccharibacteria (TM7) [G-1] bacterium HMT 869
+Saccharibacteria (TM7) [G-1] bacterium HMT 952
+Saccharibacteria (TM7) [G-2] bacterium HMT 350
+Saccharibacteria (TM7) [G-3] bacterium HMT 351
+Saccharibacteria (TM7) [G-4] bacterium HMT 355
+Saccharibacteria (TM7) [G-5] bacterium HMT 356
+Saccharibacteria (TM7) [G-5] bacterium HMT 437
+Saccharibacteria (TM7) [G-6] bacterium HMT 870
+Saccharibacteria (TM7) [G-7] bacterium HMT 954
+Saccharibacteria (TM7) [G-7] bacterium HMT 986
+Saccharibacteria (TM7) [G-7] bacterium HMT 987
+Saccharibacteria (TM7) [G-7] bacterium HMT 989
+Saccharibacteria (TM7) [G-8] bacterium HMT 955
+Sanguibacter keddieii
+Scardovia inopinata
+Scardovia wiggsiae
+Schlegelella aquatica
+Schlegelella thermodepolymerans
+Segetibacter aerophilus
+Selenomonas artemidis
+Selenomonas dianae
+Selenomonas flueggei
+Selenomonas infelix
+Selenomonas noxia
+Selenomonas sp. HMT 126
+Selenomonas sp. HMT 133
+Selenomonas sp. HMT 134
+Selenomonas sp. HMT 136
+Selenomonas sp. HMT 137
+Selenomonas sp. HMT 138
+Selenomonas sp. HMT 140
+Selenomonas sp. HMT 143
+Selenomonas sp. HMT 146
+Selenomonas sp. HMT 149
+Selenomonas sp. HMT 388
+Selenomonas sp. HMT 442
+Selenomonas sp. HMT 478
+Selenomonas sp. HMT 479
+Selenomonas sp. HMT 481
+Selenomonas sp. HMT 501
+Selenomonas sp. HMT 892
+Selenomonas sp. HMT 919
+Selenomonas sp. HMT 920
+Selenomonas sp. HMT 936
+Selenomonas sp. HMT 937
+Selenomonas sputigena
+Serratia marcescens
+Shuttleworthia satelles
+Simonsiella muelleri
+Slackia exigua
+Sneathia amnii
+Sneathia sanguinegens
+Solobacterium moorei
+Sphingomonas echinoides
+Sphingomonas sp. HMT 004
+Sphingomonas sp. HMT 006
+Staphylococcus aureus
+Staphylococcus auricularis
+Staphylococcus capitis
+Staphylococcus caprae
+Staphylococcus cohnii
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus hominis
+Staphylococcus lugdunensis
+Staphylococcus pasteuri
+Staphylococcus pettenkoferi
+Staphylococcus schleiferi
+Staphylococcus warneri
+Stenotrophomonas maltophilia
+Stenotrophomonas nitritireducens
+Stomatobaculum longum
+Stomatobaculum sp. HMT 097
+Stomatobaculum sp. HMT 373
+Stomatobaculum sp. HMT 910
+Streptococcus agalactiae
+Streptococcus anginosus
+Streptococcus australis
+Streptococcus constellatus
+Streptococcus cristatus clade 578
+Streptococcus cristatus clade 886
+Streptococcus downei
+Streptococcus gordonii
+Streptococcus infantis clade 431
+Streptococcus infantis clade 638
+Streptococcus intermedius
+Streptococcus lactarius
+Streptococcus mitis
+Streptococcus mutans
+Streptococcus oralis subsp. dentisani clade 058
+Streptococcus oralis subsp. dentisani clade 398
+Streptococcus oralis subsp. oralis
+Streptococcus oralis subsp. tigurinus clade 070
+Streptococcus oralis subsp. tigurinus clade 071
+Streptococcus parasanguinis clade 411
+Streptococcus parasanguinis clade 721
+Streptococcus peroris
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Streptococcus salivarius
+Streptococcus sanguinis
+Streptococcus sinensis
+Streptococcus sobrinus
+Streptococcus sp. HMT 055
+Streptococcus sp. HMT 056
+Streptococcus sp. HMT 057
+Streptococcus sp. HMT 061
+Streptococcus sp. HMT 064
+Streptococcus sp. HMT 065
+Streptococcus sp. HMT 066
+Streptococcus sp. HMT 067
+Streptococcus sp. HMT 068
+Streptococcus sp. HMT 069
+Streptococcus sp. HMT 074
+Streptococcus sp. HMT 423
+Streptococcus sp. HMT 486
+Streptococcus sp. HMT 487
+Streptococcus thermophilus
+Streptococcus vestibularis
+Syntrophomonadaceae [VIII][G-1] bacterium HMT 435
+Tannerella forsythia
+Tannerella sp. HMT 286
+Tannerella sp. HMT 808
+Tannerella sp. HMT 916
+Terrahaemophilus aromaticivorans
+Treponema amylovorum
+Treponema denticola
+Treponema lecithinolyticum
+Treponema maltophilum
+Treponema medium
+Treponema pallidum
+Treponema parvum
+Treponema pectinovorum
+Treponema putidum
+Treponema socranskii
+Treponema sp. HMT 226
+Treponema sp. HMT 227
+Treponema sp. HMT 228
+Treponema sp. HMT 230
+Treponema sp. HMT 231
+Treponema sp. HMT 232
+Treponema sp. HMT 234
+Treponema sp. HMT 235
+Treponema sp. HMT 236
+Treponema sp. HMT 237
+Treponema sp. HMT 238
+Treponema sp. HMT 239
+Treponema sp. HMT 242
+Treponema sp. HMT 246
+Treponema sp. HMT 247
+Treponema sp. HMT 249
+Treponema sp. HMT 250
+Treponema sp. HMT 251
+Treponema sp. HMT 252
+Treponema sp. HMT 253
+Treponema sp. HMT 254
+Treponema sp. HMT 255
+Treponema sp. HMT 256
+Treponema sp. HMT 257
+Treponema sp. HMT 258
+Treponema sp. HMT 260
+Treponema sp. HMT 262
+Treponema sp. HMT 263
+Treponema sp. HMT 264
+Treponema sp. HMT 265
+Treponema sp. HMT 268
+Treponema sp. HMT 269
+Treponema sp. HMT 270
+Treponema sp. HMT 271
+Treponema sp. HMT 490
+Treponema sp. HMT 508
+Treponema sp. HMT 517
+Treponema sp. HMT 518
+Treponema sp. HMT 927
+Treponema sp. HMT 951
+Treponema vincentii
+Turicella otitidis
+Variovorax paradoxus
+Veillonella atypica
+Veillonellaceae [G-1] bacterium HMT 129
+Veillonellaceae [G-1] bacterium HMT 132
+Veillonellaceae [G-1] bacterium HMT 135
+Veillonellaceae [G-1] bacterium HMT 145
+Veillonellaceae [G-1] bacterium HMT 148
+Veillonellaceae [G-1] bacterium HMT 150
+Veillonellaceae [G-1] bacterium HMT 155
+Veillonellaceae [G-1] bacterium HMT 483
+Veillonellaceae [G-1] bacterium HMT 918
+Veillonella denticariosi
+Veillonella dispar
+Veillonella parvula
+Veillonella rogosae
+Veillonella sp. HMT 780
+Veillonella sp. HMT 917
+WPS-2 [G-1] sp. HMT 999
+Yersinia pestis
