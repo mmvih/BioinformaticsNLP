@@ -105,7 +105,7 @@ Compile the script and run it with the commands:
 
 **Other Scripts**
 
-There are other codes in this folder, which when run, give the following outputs:
+There are other codes in this folder, which give the following outputs:
 
 - countsent.sh: outputs the number of sentences that both the bacterias were mentioned in and appends it to a file, sentcount.txt.  Sentcount can then be imported into excel for further analysis.
 To run, use the commands
