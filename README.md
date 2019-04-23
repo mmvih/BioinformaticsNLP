@@ -15,7 +15,7 @@ Download this folder (BioinformaticsNLP)
 
 Download comm_use.A-B.xml.tar.gz from ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_bulk/ and place in directory BioinformaticsNLP/.
 
-Make a sub directory in your current directory by running the command:
+Make a sub directory in your current directory by running the command (name of directory must be consistent):
 
 > mkdir ABxmlpapers
 
