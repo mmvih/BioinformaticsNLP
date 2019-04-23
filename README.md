@@ -101,7 +101,18 @@ Compile the script and run it with the commands:
 
 > chmod u+x step6optional.sh
 
-> nohup ./step6optional.sh 
+> nohup ./step6optional.sh &
+
+**Other Notes**
+
+There are other codes in this folder, which when run, give the following outputs:
+
+- countsent.sh: outputs the number of sentences that both the bacterias were mentioned in and appends it to a file, sentcount.txt.  Sentcount can then be imported into excel for further analysis.
+To run, use the commands
+
+- > chmod u+x countsent.sh
+
+- > ./countsent
 
 
 
