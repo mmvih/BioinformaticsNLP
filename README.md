@@ -4,11 +4,7 @@ There is additional code to turn most of those sentences into a .to_dot() format
 
 **Warning**
 These codes have a high time and space complexity. 
-- For testing purposes, you can remove the number of directories in the downloaded tar file from PubMed's Website after it has been unzipped. Can use the commands:
 
-> cd ABxmlpapers/
-
-> rm -rf [directoryname] 
 
 **System requirements:**
 
@@ -33,6 +29,10 @@ Given articles.A-B.xml.tar.gz tar file in the folder, we can unzip the tar file 
 > mv comm_use.articles.A-B.xml.tar.gz ABxmlpapers/
 
 > nohup tar -C /ABxmlpapers -xvf comm_use.articles.A-B.xml.tar.gz &
+
+- For testing purposes, you can remove the number of directories in the downloaded tar file to reduce the amount of time spent from PubMed's Website after it has been unzipped. Can use the commands:
+
+> rm -rf [directoryname]/ 
 
 Return to the original directory by 
 
