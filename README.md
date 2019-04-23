@@ -94,7 +94,7 @@ Compile the script and run it with the commands:
 
 The script step6optional.sh takes all the tokenized sentences in bothsentbact.txt file and breaks down all the sentences into a .to_dot() format.  The output, broken.txt, is then moved to its respective subdirectory. 
 
-  - UnicodeDecodeError is common
+  - Possibility of UnicodeDecodeError & OSError
 
 Compile the script and run it with the commands:
 
