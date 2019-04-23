@@ -30,7 +30,7 @@ Return to the original directory by
 
 > cd ..
 
-The step1.sh script creates three new directories with subdirectories (abxmlwords, abxmlsentences, SpeciesP3).  It tokenizes all the XML papers into words and sentences.  The tokenized words are placed in one output (wordPMC[PMC id].txt) and copied into the abxmlwords/ directory and the tokenized sentences (sentPMC[PMC id].txt) are copied into the abxmlsentences/ directory.  The SpeciesP3 directory is compromised of subdirectories that are named after the bacterias listed in speciesjoined.txt. If the XML paper mentions any bacteria in the list, then both outputs are moved into respective subdirectory of SpeciesP3, otherwise it is deleted.  If any bacteria listed in speciesjoined.txt is not found in any of the papers, then that subdirectory is removed  
+The step1.sh script creates three new directories with subdirectories (abxmlwords, abxmlsentences, SpeciesP3).  It tokenizes all the XML papers into words and sentences.  The tokenized words are placed in one output (wordPMC[PMC id].txt) and copied into the abxmlwords/ directory and the tokenized sentences (sentPMC[PMC id].txt) are copied into the abxmlsentences/ directory.  The SpeciesP3 directory is compromised of subdirectories that are named after the bacterias listed in speciesjoined.txt. If the XML paper mentions any bacteria in the list, then both outputs are copied into the respective subdirectories of SpeciesP3, otherwise it is deleted.  If any bacteria listed in speciesjoined.txt is not found in any of the papers, then that subdirectory is removed  
 
 Compile the script and run it with the commands:
 
