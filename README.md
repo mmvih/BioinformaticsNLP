@@ -114,9 +114,7 @@ To run, use the commands
 
 > ./countsent
 
-- freqinterest.sh: Given a list of words, the frequency of those words mentioned in bothwordbact.txt can be outputted.  Examples: lists of diseases, antibiotics, etc.
-
-Currently, it takes the list of other bacterias mentioned in the sentences besides the two bacterias of interest and outputs otherbact.txt.  It moves otherbact.txt into its respective subdirectory in spesets/. 
+- freqinterest.sh: Given a list of words, the frequency of those words mentioned in bothwordbact.txt can be outputted.  Examples: lists of diseases, antibiotics, etc. Currently, it takes the list of other bacterias mentioned in the sentences besides the two bacterias of interest and outputs otherbact.txt.  It moves otherbact.txt into its respective subdirectory in spesets/. 
 
 
 
