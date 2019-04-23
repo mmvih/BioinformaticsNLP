@@ -4,7 +4,7 @@ These codes are to help organize the XML files from PubMed's Open Access Subset.
 - There is additional code to turn most of those sentences into a .to_dot() format using Stanford's Parser to look at the Dependency Structure of the sentences
 
 **Warning**
-These codes have a high time (several weeks) and space complexity (250 G). 
+These codes cost a lot of time (several weeks) and space (250 G). 
 
 
 **System requirements:**
