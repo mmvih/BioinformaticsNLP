@@ -46,4 +46,11 @@ Compile the script and run it with the commands:
 
 > nohup ./step2.sh &
 
+The step3optionl.sh script takes the bacterias in the SpeciesP3/ directory and finds the frequency of the number of times the bacteria was mentioned in each paper.  It appends the outputs all into one .txt file and keeps it in its respective directories named as freq.txt  
+Compile the script and run it with the commands:
+
+> chmod u+x step3optional.sh
+
+> nohup ./step3optional.sh &
+
 
