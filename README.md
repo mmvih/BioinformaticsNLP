@@ -86,7 +86,7 @@ The script step5.sh takes all the tokenized words in each bothwordsbact.txt file
 
 Compile the script and run it with the commands:
 
-> chmod u+x step5.sh
+> chmod u+x step5optional.sh
 
 > nohup ./step5optional.sh &
 
