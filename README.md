@@ -82,13 +82,23 @@ Compile the script and run it with the commands:
 
 **Step 5**
 
-The script step5.sh takes all the tokenized words in each bothwordsbact.txt file and does a frequency analysis on all the words.  The output, pval.txt, is then moved to its respective subdirectory 
+The script step5optional.sh takes all the tokenized words in each bothwordsbact.txt file and does a frequency analysis on all the words.  The output, pval.txt, is then moved to its respective subdirectory 
 
 Compile the script and run it with the commands:
 
 > chmod u+x step5optional.sh
 
 > nohup ./step5optional.sh &
+
+**Step 6** 
+
+The script step6optional.sh takes all the tokenized sentences in bothsentbact.txt file and breaks down all the sentences into a .to_dot() format.  The output, brokeit.txt, is then moved to its respective subdirectory. 
+
+Compile the script and run it with the commands:
+
+> chmod u+x step6optional.sh
+
+> nohup ./step6optional.sh 
 
 
 
