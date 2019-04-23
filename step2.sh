@@ -1,3 +1,6 @@
+module load python/anaconda - 4.3.1
+conda list nltk
+
 mkdir spesets
 while read species 
 do
