@@ -30,7 +30,7 @@ Given articles.A-B.xml.tar.gz tar file in the folder, we can unzip the tar file 
 
 > nohup tar -C /ABxmlpapers -xvf comm_use.articles.A-B.xml.tar.gz &
 
-Optional: For testing purposes, you can remove the number of directories in the downloaded tar file to reduce the amount of time spent from PubMed's Website after it has been unzipped. Can use the commands:
+Optional: For testing purposes, you can remove the number of directories in the downloaded tar file from PubMed's Website after it has been unzipped to reduce the cost of time. To remove the subdirectories, you can use the commands:
 
 > rm -rf [directoryname]/ 
 
