@@ -7,6 +7,7 @@ These codes have a high time and space complexity.
 - For testing purposes, you can remove the number of directories in the downloaded tar file from PubMed's Website after it has been unzipped. Can use the commands:
 
 > cd ABxmlpapers/
+
 > rm -rf [directoryname] 
 
 **System requirements:**
