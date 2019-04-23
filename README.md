@@ -114,7 +114,7 @@ To run, use the commands
 
 > ./countsent
 
-- freqwords.sh
+- freqinterest.sh
 
 
 
