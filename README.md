@@ -1,6 +1,13 @@
 # BioinformaticsNLP
-These codes are to help organize XML files from PubMed's Open Access Subset to help find interactions between two bacterias in the oral microbiome by finding all the sentences that mention any two bacteria within the list of given bacterias. 
+These codes are to help organize the XML files from PubMed's Open Access Subset.  The methods explained below can be used to help find information on the interactions between bacterias in the oral microbiome by finding all the sentences that mention any two bacteria within the list of given bacterias.  
 There is additional code to turn most of those sentences into a .to_dot() format using Stanford's Parser to look at the Dependency Structure of the sentences
+
+**Warning**
+These codes have a high time and space complexity. 
+- For testing purposes, you can remove the number of directories in the downloaded tar file from PubMed's Website after it has been unzipped. Can use the commands:
+
+> cd ABxmlpapers/
+> rm -rf [directoryname] 
 
 **System requirements:**
 
