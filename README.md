@@ -19,6 +19,10 @@ Given articles.A-B.xml.tar.gz tar file in the folder, we can unzip the tar file 
 
 > mv articles.A-B.xml.tar.gz ABxmlpapers/
 
-> tar -C /ABxmlpapers -xvf articles.A-B.xml.tar.gz &
+> nohup tar -C /ABxmlpapers -xvf articles.A-B.xml.tar.gz &
 
-- The "&" allows the folder to be unzipped in the background
+Return to the original directory by 
+
+> cd ..
+
+
