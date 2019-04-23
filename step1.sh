@@ -6,14 +6,14 @@ while read species; do mkdir SpeciesP3/"$species"; done < speciesjoined.txt
 mkdir abxmlwords
 mkdir abxmlsents
 
-for f in abxmlpapers/*
+for f in ABxmlpapers/*
 do 
 	DIREK=${f##*/}
 	echo ${DIREK}
 	mkdir abxmlwords/${DIREK}
 	mkdir abxmlsents/${DIREK}
 	
-	for w in abxmlpapers/${DIREK}/*
+	for w in ABxmlpapers/${DIREK}/*
 		do
 			echo $w
 			PAP=$(basename $w)
