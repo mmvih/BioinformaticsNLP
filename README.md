@@ -78,9 +78,18 @@ Compile the script and run it with the commands:
 
 > chmod u+x step4.sh
 
-> nohup ./step4optional.sh
+> nohup ./step4optional.sh &
 
 **Step 5**
+
+The script step5.sh takes all the tokenized words in each bothwordsbact.txt file and does a frequency analysis on all the words.  The output, pval.txt, is then moved to its respective subdirectory 
+
+Compile the script and run it with the commands:
+
+> chmod u+x step5.sh
+
+> nohup ./step5optional.sh &
+
 
 
 
