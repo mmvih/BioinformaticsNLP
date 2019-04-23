@@ -9,7 +9,7 @@ These codes have a high time and space complexity.
 **System requirements:**
 
 - Anaconda/Python 4.3.1 or higher
-- Natural Language Processing Toolkit 
+- Natural Language Processing Toolkit (part of Anaconda)
 - Stanford Parser
 
 
