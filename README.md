@@ -1,5 +1,5 @@
 # BioinformaticsNLP
-These codes are to help streamline and organize XML files from PubMed's Open Access Subset to help find interactions between two bacterias in the oral microbiome by finding all the sentences that mention any two bacteria within the list of given bacterias. 
+These codes are to help organize XML files from PubMed's Open Access Subset to help find interactions between two bacterias in the oral microbiome by finding all the sentences that mention any two bacteria within the list of given bacterias. 
 There is additional code to turn most of those sentences into a .to_dot() format using Stanford's Parser to look at the Dependency Structure of the sentences
 
 **System requirements:**
